@@ -1,25 +1,43 @@
 # Tyler TV
-What is Tyler TV? 
+## What is this?
 
-Tyler TV is a upcoming Streaming Service by Tyler Nodes. Tyler Nodes is managed by Tyler. He is the only person there. Sometimes friends will help out and I will ask things on stack exchange. 
+As the name suggests, we are a streaming service. Here you can stream your favorite TV Shows and Movies for free. There are certain limitations with the free plan, and you get those removed with paid ones. This was meant as a side project and should mabye take off one day.
 
-## How does it work?
+## Who made this?
 
-It works by me making ui look nice and using browser-built-in video players. I also have to get all the movies and shows which is not fun to obtain licenses for (copyright sucks). 
+Me, Tyler, know as tttyler codes the backend and the whole mainframe. I do almost everything besides design and CSS/SASS.
 
-## How do you run this?
+GamingLizard9 designs all the webpages and makes the nice and responsive, he also runs his own website here: [His Website!](https://gaminglizard9.github.io)
 
-I plan on releaseing a paid service for this for 1 reason: ***Hosting Costs***. Hosting is not free. Even if I hosted locally, the power in my area of Michigan is very expensive and I, although its very powerful, do not have a computer powerful enough to handle 100+ users streaming video. 
+## What are the plans?
 
-## What does the local server run?
+**Free Tier**
 
-I am running *Windows 11* with the following specs:
+ - [ ] No Ads
+ - [x] Unlimited Watching 
+ - [ ] All Content 
+ - [ ] Unlimited Content Upload
+ Content Upload on the free plan is limited to 3 uploads a week with 100gb a week.
+ - [x] All devices
 
- - **GTX 1080 Custom Built and Water Cooled**
- - **Intel Core i7-9700F with speeds of 4.60 ghz on average**
- - **2 SSDs resulting in 1.5tb of storage**
- - **Turtle Wifi**
- - **16GB of memory**
+**Premium Tier**
 
-## When is release?
-I am aiming for July of 2024, but it will probably be pushed back. I expect to start Beta testing is early to mid 2023 and possibly late 2022. 
+ - [x] No Ads
+ - [x] Unlimited Watching 
+ - [x] All Content 
+ - [ ] Unlimited Content Upload
+ Content Upload on the premium plan is limited to 10 uploads a week with 1tb a week.
+ - [x] All devices
+
+**Enterprise Tier**
+
+ - [x] No Ads
+ - [x] Unlimited Watching 
+ - [x] All Content 
+ - [x] Unlimited Content Upload
+ May get rate limited if abused.
+ - [x] All devices
+
+## Why is stuff limited?
+
+Hosting is not cheap. I have to have a source of income to pay for server storage and hosting (amount will not be disclosed). We would love to have everything be free, but we can't.
