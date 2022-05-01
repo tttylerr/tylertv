@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100;1,400&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    background: linear-gradient(to left top, rgba(87, 171, 235, 0.6), rgba(87, 171, 235, 0.9));
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel {
+    background: linear-gradient(to right bottom, rgba(255,255,255,0.8), rgba(255,255,255, 0.3));
+    min-height: 90vh;
+    width: 95%;
+    background: linear-gradient(to right bottom, rgba(255,255,255,0.7), rgba(255,255,255, 0.3));
+    border-radius: 2rem;
+    z-index: 2;
+    backdrop-filter: blur(2rem);
+    display: flex;
+    justify-content: center;
+}
+
+
+.panelHeader {
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    padding-top: 20px;
+    animation: 0.45s ease-in 0s 1 slideInTop;
+}
+
+.panelContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: center;
+}
+
+@keyframes slideInTop {
+    0% {
+      transform: translateY(-20%);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+
