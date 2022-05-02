@@ -1,0 +1,17 @@
+{
+  "name": "tylertv",
+  "version": "0.0.1",
+  "description": "tylertv",
+  "main": "index.js",
+  "scripts": {
+	  "css-build": "node-sass --omit-source-map-url sass/mystyles.sass css/mystyles.css",
+	  "css-watch": "npm run css-build -- --watch",
+	  "start": "npm run css-watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bulma": "^0.9.3",
+    "node-sass": "^7.0.1"
+  }
+}
