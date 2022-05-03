@@ -1,7 +1,7 @@
 # Tyler TV
 ## What is this?
 
-As the name suggests, we are a streaming service. Here you can stream your favorite TV Shows and Movies for free. There are certain limitations with the free plan, and you get those removed with paid ones. This was meant as a side project and should mabye take off one day.
+As the name suggests, we are a streaming service. Here you can stream your favorite TV Shows and Movies for free. There are certain limitations with the free plan, and you get those removed with paid ones. This was meant as a side project and should maybe take off one day.
 
 ## Who made this?
 
