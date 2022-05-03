@@ -1,0 +1,19 @@
+{
+  "name": "tylerswebsite",
+  "version": "1.0.0",
+  "description": "A test website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tyler",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "yarn": "^1.22.18"
+  }
+}
